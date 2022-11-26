@@ -1,11 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.swasthik.hackathoncode">
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    package="com.example.app">
    <application
-        android:label="hackathoncode"
+        android:label="app"
         android:name="${applicationName}"
-       android:usesCleartextTraffic="true"
-       android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -27,8 +25,8 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-       <meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyB4OwO_kWmpNhPGtLqMaJJy-rQtM56AGqM"/>
+        <meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="AIzaSyB4OwO_kWmpNhPGtLqMaJJy-rQtM56AGqM"/>
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
         <meta-data

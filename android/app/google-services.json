@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929234734950",
+    "project_id": "rithack-173ec",
+    "storage_bucket": "rithack-173ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929234734950:android:2570e3dad2abc9d428c2a7",
+        "android_client_info": {
+          "package_name": "com.swasthik.hackathoncode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929234734950-laq867rprrbkd0cd4np2b84h1jorqdfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwLNsX7Vgy5TGareXPzRgh7svFoJhDgTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929234734950-laq867rprrbkd0cd4np2b84h1jorqdfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
