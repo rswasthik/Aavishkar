@@ -149,11 +149,11 @@ class _homeState extends State<home> {
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: <Widget>[
                                     Text(
-                                      '',
+                                      'ID',
                                       style: TextStyle(color: Colors.grey[700]),
                                     ),
                                     Text(
-                                      '',
+                                      '7894556',
                                       style: TextStyle(
                                         color: Colors.black,
                                         fontSize: 14,
@@ -321,11 +321,11 @@ class _homeState extends State<home> {
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: <Widget>[
                                     Text(
-                                      '',
+                                      'ID',
                                       style: TextStyle(color: Colors.grey[700]),
                                     ),
                                     Text(
-                                      '',
+                                      '123456AD',
                                       style: TextStyle(
                                         color: Colors.black,
                                         fontSize: 14,
@@ -494,11 +494,11 @@ class _homeState extends State<home> {
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: <Widget>[
                                     Text(
-                                      '',
+                                      'ID',
                                       style: TextStyle(color: Colors.grey[700]),
                                     ),
                                     Text(
-                                      '',
+                                      '369852PJ',
                                       style: TextStyle(
                                         color: Colors.black,
                                         fontSize: 14,
@@ -666,11 +666,11 @@ class _homeState extends State<home> {
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: <Widget>[
                                     Text(
-                                      '',
+                                      'ID',
                                       style: TextStyle(color: Colors.grey[700]),
                                     ),
                                     Text(
-                                      '',
+                                      '741258PM',
                                       style: TextStyle(
                                         color: Colors.black,
                                         fontSize: 14,
@@ -1005,11 +1005,11 @@ class _homeState extends State<home> {
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: <Widget>[
                                     Text(
-                                      '',
+                                      'ID',
                                       style: TextStyle(color: Colors.grey[700]),
                                     ),
                                     Text(
-                                      '',
+                                      '9874562AC',
                                       style: TextStyle(
                                         color: Colors.black,
                                         fontSize: 14,
